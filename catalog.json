@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "campus-hoodie",
+    "name": "Campus Club Hoodie",
+    "category": "Campus Collection",
+    "subcategory": "Hoodies",
+    "gender": "unisex",
+    "price": 2400,
+    "description": "A soft, everyday layer with a relaxed fit and a little campus pride.",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#e8d8bb",
+        "image": "./images/products/campus-hoodie_sand.svg"
+      },
+      {
+        "name": "Black",
+        "hex": "#282b2a",
+        "image": "./images/products/campus-hoodie_black.svg"
+      },
+      {
+        "name": "Olive",
+        "hex": "#71866c",
+        "image": "./images/products/campus-hoodie_olive.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "court-runner",
+    "name": "Kasi Court Runner",
+    "category": "Footwear",
+    "subcategory": "Lifestyle sneakers",
+    "gender": "unisex",
+    "price": 3900,
+    "description": "Light on your feet, ready for the long way to class and whatever comes after.",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#e8d8bb",
+        "image": "./images/products/court-runner_sand.svg"
+      },
+      {
+        "name": "Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/court-runner_blue.svg"
+      },
+      {
+        "name": "Coral",
+        "hex": "#e35d4e",
+        "image": "./images/products/court-runner_coral.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": []
+  },
+  {
+    "id": "varsity-tee",
+    "name": "Varsity Move Tee",
+    "category": "Campus Collection",
+    "subcategory": "Tees",
+    "gender": "unisex",
+    "price": 1200,
+    "description": "A breathable cotton-blend tee made for class, training and everything in between.",
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f7f7f2",
+        "image": "./images/products/varsity-tee_white.svg"
+      },
+      {
+        "name": "Black",
+        "hex": "#282b2a",
+        "image": "./images/products/varsity-tee_black.svg"
+      },
+      {
+        "name": "Coral",
+        "hex": "#e35d4e",
+        "image": "./images/products/varsity-tee_coral.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "street-low",
+    "name": "Street Low Sneaker",
+    "category": "Footwear",
+    "subcategory": "Lifestyle sneakers",
+    "gender": "unisex",
+    "price": 3500,
+    "description": "A clean, cushioned low-top that earns its place in your daily rotation.",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/street-low_blue.svg"
+      },
+      {
+        "name": "Sand",
+        "hex": "#e8d8bb",
+        "image": "./images/products/street-low_sand.svg"
+      },
+      {
+        "name": "Black",
+        "hex": "#282b2a",
+        "image": "./images/products/street-low_black.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": []
+  },
+  {
+    "id": "campus-cap",
+    "name": "Campus Day Cap",
+    "category": "Accessories",
+    "subcategory": "Caps",
+    "gender": "unisex",
+    "price": 900,
+    "description": "An easy adjustable cap for sunny walks between lectures.",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#71866c",
+        "image": "./images/products/campus-cap_olive.svg"
+      },
+      {
+        "name": "Sand",
+        "hex": "#e8d8bb",
+        "image": "./images/products/campus-cap_sand.svg"
+      },
+      {
+        "name": "Black",
+        "hex": "#282b2a",
+        "image": "./images/products/campus-cap_black.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": [
+      "Sale"
+    ],
+    "salePrice": 765
+  },
+  {
+    "id": "track-jacket",
+    "name": "Everyday Track Jacket",
+    "category": "Clothing",
+    "subcategory": "Jackets",
+    "gender": "unisex",
+    "price": 2800,
+    "description": "A light zip layer with room to move and pockets for the essentials.",
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/track-jacket_blue.svg"
+      },
+      {
+        "name": "Black",
+        "hex": "#282b2a",
+        "image": "./images/products/track-jacket_black.svg"
+      },
+      {
+        "name": "Sand",
+        "hex": "#e8d8bb",
+        "image": "./images/products/track-jacket_sand.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "kenya-home-jersey",
+    "name": "Kenya Home Jersey",
+    "category": "Clothing",
+    "subcategory": "Football jerseys",
+    "gender": "unisex",
+    "price": 2800,
+    "description": "A breathable match-day jersey in an independent Kenya-inspired colorway. No federation badges or official team marks.",
+    "colors": [
+      {
+        "name": "Red / Green / Black",
+        "hex": "#e35d4e",
+        "image": "./images/products/kenya-home-jersey_red-green-black.svg"
+      },
+      {
+        "name": "Forest / White",
+        "hex": "#71866c",
+        "image": "./images/products/kenya-home-jersey_forest-white.svg"
+      },
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/kenya-home-jersey_black-gold.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "japan-home-jersey",
+    "name": "Japan Home Jersey",
+    "category": "Clothing",
+    "subcategory": "Football jerseys",
+    "gender": "unisex",
+    "price": 2900,
+    "description": "Lightweight, match-inspired mesh with clean blue-and-white contrast. Independent design, not an official team product.",
+    "colors": [
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/japan-home-jersey_blue-white.svg"
+      },
+      {
+        "name": "White / Blue",
+        "hex": "#f7f7f2",
+        "image": "./images/products/japan-home-jersey_white-blue.svg"
+      },
+      {
+        "name": "Red / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/japan-home-jersey_red-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "nigeria-inspired-jersey",
+    "name": "Nigeria-Inspired Jersey",
+    "category": "Clothing",
+    "subcategory": "Football jerseys",
+    "gender": "unisex",
+    "price": 2750,
+    "description": "An original green-and-white football look with breathable fabric and no federation marks.",
+    "colors": [
+      {
+        "name": "Green / White",
+        "hex": "#71866c",
+        "image": "./images/products/nigeria-inspired-jersey_green-white.svg"
+      },
+      {
+        "name": "White / Green",
+        "hex": "#f7f7f2",
+        "image": "./images/products/nigeria-inspired-jersey_white-green.svg"
+      },
+      {
+        "name": "Forest / Black",
+        "hex": "#282b2a",
+        "image": "./images/products/nigeria-inspired-jersey_forest-black.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "brazil-inspired-jersey",
+    "name": "Brazil-Inspired Jersey",
+    "category": "Clothing",
+    "subcategory": "Football jerseys",
+    "gender": "unisex",
+    "price": 2850,
+    "description": "An upbeat yellow-and-green match-day palette in a distinct independent design.",
+    "colors": [
+      {
+        "name": "Yellow / Green",
+        "hex": "#e9c866",
+        "image": "./images/products/brazil-inspired-jersey_yellow-green.svg"
+      },
+      {
+        "name": "Green / Yellow",
+        "hex": "#71866c",
+        "image": "./images/products/brazil-inspired-jersey_green-yellow.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/brazil-inspired-jersey_blue-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "classic-black-jersey",
+    "name": "Classic Black Football Jersey",
+    "category": "Clothing",
+    "subcategory": "Football jerseys",
+    "gender": "unisex",
+    "price": 2700,
+    "description": "A clean, comfortable football jersey with metallic-look gold trim and no team branding.",
+    "colors": [
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/classic-black-jersey_black-gold.svg"
+      },
+      {
+        "name": "Purple / White",
+        "hex": "#e9c866",
+        "image": "./images/products/classic-black-jersey_purple-white.svg"
+      },
+      {
+        "name": "Navy / Orange",
+        "hex": "#9b82a7",
+        "image": "./images/products/classic-black-jersey_navy-orange.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "pro-match-shorts",
+    "name": "Pro Match Shorts",
+    "category": "Clothing",
+    "subcategory": "Football shorts",
+    "gender": "unisex",
+    "price": 1600,
+    "description": "Lightweight match shorts with a flexible waistband and easy-moving cut.",
+    "colors": [
+      {
+        "name": "Black / White",
+        "hex": "#282b2a",
+        "image": "./images/products/pro-match-shorts_black-white.svg"
+      },
+      {
+        "name": "White / Black",
+        "hex": "#f7f7f2",
+        "image": "./images/products/pro-match-shorts_white-black.svg"
+      },
+      {
+        "name": "Navy / Orange",
+        "hex": "#567c9e",
+        "image": "./images/products/pro-match-shorts_navy-orange.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speed-shorts",
+    "name": "Speed Shorts",
+    "category": "Clothing",
+    "subcategory": "Football shorts",
+    "gender": "unisex",
+    "price": 1450,
+    "description": "Quick-drying training shorts with side vents for fast footwork and sprints.",
+    "colors": [
+      {
+        "name": "Red / Black",
+        "hex": "#e35d4e",
+        "image": "./images/products/speed-shorts_red-black.svg"
+      },
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/speed-shorts_black-red.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/speed-shorts_blue-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "training-shorts",
+    "name": "Training Shorts",
+    "category": "Clothing",
+    "subcategory": "Football shorts",
+    "gender": "unisex",
+    "price": 1500,
+    "description": "Everyday training shorts with breathable fabric and a secure drawcord waist.",
+    "colors": [
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/training-shorts_blue-white.svg"
+      },
+      {
+        "name": "White / Blue",
+        "hex": "#f7f7f2",
+        "image": "./images/products/training-shorts_white-blue.svg"
+      },
+      {
+        "name": "Green / Black",
+        "hex": "#71866c",
+        "image": "./images/products/training-shorts_green-black.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "elite-shorts",
+    "name": "Elite Shorts",
+    "category": "Clothing",
+    "subcategory": "Football shorts",
+    "gender": "unisex",
+    "price": 1750,
+    "description": "A smooth performance short with a tapered athletic fit and contrast side panels.",
+    "colors": [
+      {
+        "name": "Green / Black",
+        "hex": "#71866c",
+        "image": "./images/products/elite-shorts_green-black.svg"
+      },
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/elite-shorts_black-gold.svg"
+      },
+      {
+        "name": "Purple / White",
+        "hex": "#9b82a7",
+        "image": "./images/products/elite-shorts_purple-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "performance-training-tee",
+    "name": "Performance Training T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-shirts",
+    "gender": "unisex",
+    "price": 1850,
+    "description": "A sweat-wicking training tee with soft seams for warm-ups and everyday sessions.",
+    "colors": [
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/performance-training-tee_black-red.svg"
+      },
+      {
+        "name": "Red / Black",
+        "hex": "#e35d4e",
+        "image": "./images/products/performance-training-tee_red-black.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/performance-training-tee_blue-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "dry-fit-training-tee",
+    "name": "Dry-Fit Training T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-shirts",
+    "gender": "unisex",
+    "price": 1750,
+    "description": "Quick-dry fabric and a relaxed athletic shape help keep training comfortable.",
+    "colors": [
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/dry-fit-training-tee_blue-white.svg"
+      },
+      {
+        "name": "White / Blue",
+        "hex": "#f7f7f2",
+        "image": "./images/products/dry-fit-training-tee_white-blue.svg"
+      },
+      {
+        "name": "Orange / Navy",
+        "hex": "#ee8158",
+        "image": "./images/products/dry-fit-training-tee_orange-navy.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "long-sleeve-training-top",
+    "name": "Long-Sleeve Training Top",
+    "category": "Clothing",
+    "subcategory": "Training tops",
+    "gender": "unisex",
+    "price": 2450,
+    "description": "A light long-sleeve layer for cool evening sessions and pre-match warm-ups.",
+    "colors": [
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/long-sleeve-training-top_black-gold.svg"
+      },
+      {
+        "name": "Purple / White",
+        "hex": "#e9c866",
+        "image": "./images/products/long-sleeve-training-top_purple-white.svg"
+      },
+      {
+        "name": "Navy / Orange",
+        "hex": "#9b82a7",
+        "image": "./images/products/long-sleeve-training-top_navy-orange.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "lightweight-training-hoodie",
+    "name": "Lightweight Training Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "gender": "unisex",
+    "price": 3200,
+    "description": "A light, breathable hoodie with a roomy fit for warm-ups and travel days.",
+    "colors": [
+      {
+        "name": "Grey / Black",
+        "hex": "#a9aeaa",
+        "image": "./images/products/lightweight-training-hoodie_grey-black.svg"
+      },
+      {
+        "name": "Black / Orange",
+        "hex": "#282b2a",
+        "image": "./images/products/lightweight-training-hoodie_black-orange.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/lightweight-training-hoodie_blue-white.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "elite-tracksuit",
+    "name": "Elite Tracksuit",
+    "category": "Clothing",
+    "subcategory": "Tracksuits",
+    "gender": "unisex",
+    "price": 5900,
+    "description": "A coordinated warm-up set with a zip jacket, tapered pants, and clean contrast piping.",
+    "colors": [
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/elite-tracksuit_black-gold.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#e9c866",
+        "image": "./images/products/elite-tracksuit_blue-white.svg"
+      },
+      {
+        "name": "Purple / Orange",
+        "hex": "#567c9e",
+        "image": "./images/products/elite-tracksuit_purple-orange.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "kenya-training-tracksuit",
+    "name": "Kenya Training Tracksuit",
+    "category": "Clothing",
+    "subcategory": "Tracksuits",
+    "gender": "unisex",
+    "price": 6200,
+    "description": "An independent Kenya-inspired training set in bold colors, without official federation branding.",
+    "colors": [
+      {
+        "name": "Red / Green / Black",
+        "hex": "#e35d4e",
+        "image": "./images/products/kenya-training-tracksuit_red-green-black.svg"
+      },
+      {
+        "name": "Green / White",
+        "hex": "#71866c",
+        "image": "./images/products/kenya-training-tracksuit_green-white.svg"
+      },
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/kenya-training-tracksuit_black-gold.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "midnight-tracksuit",
+    "name": "Midnight Tracksuit",
+    "category": "Clothing",
+    "subcategory": "Tracksuits",
+    "gender": "unisex",
+    "price": 5750,
+    "description": "A smooth navy warm-up set with a practical zip top and comfortable tapered pants.",
+    "colors": [
+      {
+        "name": "Navy / White",
+        "hex": "#283754",
+        "image": "./images/products/midnight-tracksuit_navy-white.svg"
+      },
+      {
+        "name": "White / Blue",
+        "hex": "#f7f7f2",
+        "image": "./images/products/midnight-tracksuit_white-blue.svg"
+      },
+      {
+        "name": "Purple / Orange",
+        "hex": "#e35d4e",
+        "image": "./images/products/midnight-tracksuit_purple-orange.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "pro-tracksuit",
+    "name": "Pro Tracksuit",
+    "category": "Clothing",
+    "subcategory": "Tracksuits",
+    "gender": "unisex",
+    "price": 6100,
+    "description": "A versatile royal-blue training set with lightweight stretch and contrast detailing.",
+    "colors": [
+      {
+        "name": "Royal Blue / Black",
+        "hex": "#3562c8",
+        "image": "./images/products/pro-tracksuit_royal-blue-black.svg"
+      },
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/pro-tracksuit_black-red.svg"
+      },
+      {
+        "name": "White / Navy",
+        "hex": "#f7f7f2",
+        "image": "./images/products/pro-tracksuit_white-navy.svg"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": []
+  },
+  {
+    "id": "speed-pro-boots",
+    "name": "Speed Pro Boots",
+    "category": "Footwear",
+    "subcategory": "Football boots",
+    "gender": "unisex",
+    "price": 5200,
+    "description": "A lightweight molded-stud boot made for quick acceleration on firm ground.",
+    "colors": [
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/speed-pro-boots_black-red.svg"
+      },
+      {
+        "name": "Red / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/speed-pro-boots_red-white.svg"
+      },
+      {
+        "name": "Gold / Black",
+        "hex": "#e9c866",
+        "image": "./images/products/speed-pro-boots_gold-black.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "Bestseller"
+    ]
+  },
+  {
+    "id": "control-pro-boots",
+    "name": "Control Pro Boots",
+    "category": "Footwear",
+    "subcategory": "Football boots",
+    "gender": "unisex",
+    "price": 5500,
+    "description": "A supportive firm-ground boot with textured panels for a confident touch.",
+    "colors": [
+      {
+        "name": "White / Blue",
+        "hex": "#f7f7f2",
+        "image": "./images/products/control-pro-boots_white-blue.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/control-pro-boots_blue-white.svg"
+      },
+      {
+        "name": "Orange / Black",
+        "hex": "#e9c866",
+        "image": "./images/products/control-pro-boots_orange-black.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": []
+  },
+  {
+    "id": "elite-fg-boots",
+    "name": "Elite FG Boots",
+    "category": "Footwear",
+    "subcategory": "Football boots",
+    "gender": "unisex",
+    "price": 6100,
+    "description": "A responsive firm-ground football boot with a secure lace-up fit and bright detailing.",
+    "colors": [
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/elite-fg-boots_black-gold.svg"
+      },
+      {
+        "name": "Purple / Gold",
+        "hex": "#e9c866",
+        "image": "./images/products/elite-fg-boots_purple-gold.svg"
+      },
+      {
+        "name": "Blue / Orange",
+        "hex": "#9b82a7",
+        "image": "./images/products/elite-fg-boots_blue-orange.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": []
+  },
+  {
+    "id": "phantom-boots",
+    "name": "Phantom Boots",
+    "category": "Footwear",
+    "subcategory": "Football boots",
+    "gender": "unisex",
+    "price": 5700,
+    "description": "A smooth control boot with molded firm-ground studs and a bold blue finish.",
+    "colors": [
+      {
+        "name": "Blue / Black",
+        "hex": "#567c9e",
+        "image": "./images/products/phantom-boots_blue-black.svg"
+      },
+      {
+        "name": "Black / Purple",
+        "hex": "#282b2a",
+        "image": "./images/products/phantom-boots_black-purple.svg"
+      },
+      {
+        "name": "Red / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/phantom-boots_red-white.svg"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": []
+  },
+  {
+    "id": "kasi-sports-bag",
+    "name": "Kasi Athletics Sports Bag",
+    "category": "Accessories",
+    "subcategory": "Gym bags",
+    "gender": "unisex",
+    "price": 3400,
+    "description": "A roomy, zip-top carryall with sturdy handles and space for training essentials.",
+    "colors": [
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/kasi-sports-bag_black-red.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/kasi-sports-bag_blue-white.svg"
+      },
+      {
+        "name": "Purple / Orange",
+        "hex": "#567c9e",
+        "image": "./images/products/kasi-sports-bag_purple-orange.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": []
+  },
+  {
+    "id": "performance-socks",
+    "name": "Performance Socks",
+    "category": "Accessories",
+    "subcategory": "Socks",
+    "gender": "unisex",
+    "price": 650,
+    "description": "Soft, supportive crew socks with cushioned zones for training and match days.",
+    "colors": [
+      {
+        "name": "White / Black",
+        "hex": "#f7f7f2",
+        "image": "./images/products/performance-socks_white-black.svg"
+      },
+      {
+        "name": "Black / Gold",
+        "hex": "#282b2a",
+        "image": "./images/products/performance-socks_black-gold.svg"
+      },
+      {
+        "name": "Red / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/performance-socks_red-white.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": []
+  },
+  {
+    "id": "training-gloves",
+    "name": "Football Training Gloves",
+    "category": "Accessories",
+    "subcategory": "Training gloves",
+    "gender": "unisex",
+    "price": 1450,
+    "description": "Lightweight practice gloves with flexible fingers and textured grip accents.",
+    "colors": [
+      {
+        "name": "Black / Red",
+        "hex": "#282b2a",
+        "image": "./images/products/training-gloves_black-red.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#e35d4e",
+        "image": "./images/products/training-gloves_blue-white.svg"
+      },
+      {
+        "name": "Purple / Orange",
+        "hex": "#567c9e",
+        "image": "./images/products/training-gloves_purple-orange.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": []
+  },
+  {
+    "id": "sports-water-bottle",
+    "name": "Sports Water Bottle",
+    "category": "Accessories",
+    "subcategory": "Water bottles",
+    "gender": "unisex",
+    "price": 900,
+    "description": "A reusable, easy-grip training bottle with a flip-top cap for sideline hydration.",
+    "colors": [
+      {
+        "name": "Black / Blue",
+        "hex": "#282b2a",
+        "image": "./images/products/sports-water-bottle_black-blue.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#567c9e",
+        "image": "./images/products/sports-water-bottle_blue-white.svg"
+      },
+      {
+        "name": "Orange / Black",
+        "hex": "#71866c",
+        "image": "./images/products/sports-water-bottle_orange-black.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": []
+  },
+  {
+    "id": "athletic-cap",
+    "name": "Athletic Cap",
+    "category": "Accessories",
+    "subcategory": "Caps",
+    "gender": "unisex",
+    "price": 1100,
+    "description": "A lightweight adjustable cap with a curved brim for sunny training days.",
+    "colors": [
+      {
+        "name": "Black / White",
+        "hex": "#282b2a",
+        "image": "./images/products/athletic-cap_black-white.svg"
+      },
+      {
+        "name": "Blue / White",
+        "hex": "#f7f7f2",
+        "image": "./images/products/athletic-cap_blue-white.svg"
+      },
+      {
+        "name": "Purple / Orange",
+        "hex": "#e35d4e",
+        "image": "./images/products/athletic-cap_purple-orange.svg"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "tags": []
+  },
+  {
+    "id": "savanna-road-runner",
+    "name": "Savanna Road Runner",
+    "category": "Footwear",
+    "subcategory": "Running shoes",
+    "gender": "men",
+    "price": 4800,
+    "description": "A cushioned daily runner with a breathable upper for roads, tracks, and town errands.",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "New",
+      "Bestseller"
+    ],
+    "colors": [
+      {
+        "name": "Coral Rush",
+        "hex": "#e35d4e",
+        "image": "./images/products/savanna-road-runner_coral-rush.svg"
+      },
+      {
+        "name": "Lake Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/savanna-road-runner_lake-blue.svg"
+      },
+      {
+        "name": "Violet Night",
+        "hex": "#6c4a8f",
+        "image": "./images/products/savanna-road-runner_violet-night.svg"
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "#ee8158",
+        "image": "./images/products/savanna-road-runner_sunset-orange.svg"
+      }
+    ]
+  },
+  {
+    "id": "court-rise-basketball",
+    "name": "Court Rise Basketball Shoes",
+    "category": "Footwear",
+    "subcategory": "Basketball shoes",
+    "gender": "unisex",
+    "price": 6200,
+    "description": "A supportive high-top with a grippy court sole and padded ankle for pickup games.",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Royal Pop",
+        "hex": "#3562c8",
+        "image": "./images/products/court-rise-basketball_royal-pop.svg"
+      },
+      {
+        "name": "Orange Flame",
+        "hex": "#ee8158",
+        "image": "./images/products/court-rise-basketball_orange-flame.svg"
+      },
+      {
+        "name": "Mint Court",
+        "hex": "#71866c",
+        "image": "./images/products/court-rise-basketball_mint-court.svg"
+      },
+      {
+        "name": "Violet Pulse",
+        "hex": "#9b82a7",
+        "image": "./images/products/court-rise-basketball_violet-pulse.svg"
+      }
+    ]
+  },
+  {
+    "id": "downtown-lifestyle-sneaker",
+    "name": "Downtown Lifestyle Sneaker",
+    "category": "Footwear",
+    "subcategory": "Lifestyle sneakers",
+    "gender": "women",
+    "price": 4200,
+    "description": "A low-profile everyday sneaker with a soft collar and easy-to-style color blocking.",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Cream Coast",
+        "hex": "#e8d8bb",
+        "image": "./images/products/downtown-lifestyle-sneaker_cream-coast.svg"
+      },
+      {
+        "name": "Berry Violet",
+        "hex": "#9b82a7",
+        "image": "./images/products/downtown-lifestyle-sneaker_berry-violet.svg"
+      },
+      {
+        "name": "Green Market",
+        "hex": "#71866c",
+        "image": "./images/products/downtown-lifestyle-sneaker_green-market.svg"
+      }
+    ]
+  },
+  {
+    "id": "everyday-sport-slides",
+    "name": "Everyday Sport Slides",
+    "category": "Footwear",
+    "subcategory": "Slides",
+    "gender": "unisex",
+    "price": 1250,
+    "description": "A soft contoured footbed and adjustable strap make these slides an easy post-training pick.",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Pool Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/everyday-sport-slides_pool-blue.svg"
+      },
+      {
+        "name": "Tangerine",
+        "hex": "#ee8158",
+        "image": "./images/products/everyday-sport-slides_tangerine.svg"
+      },
+      {
+        "name": "Soft Lilac",
+        "hex": "#b9a2c8",
+        "image": "./images/products/everyday-sport-slides_soft-lilac.svg"
+      }
+    ]
+  },
+  {
+    "id": "coast-walk-sandals",
+    "name": "Coast Walk Sandals",
+    "category": "Footwear",
+    "subcategory": "Sandals",
+    "gender": "women",
+    "price": 1900,
+    "description": "A lightweight adjustable sandal with a cushioned sole for relaxed weekend walks.",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Terracotta",
+        "hex": "#c75b3b",
+        "image": "./images/products/coast-walk-sandals_terracotta.svg"
+      },
+      {
+        "name": "Olive Trail",
+        "hex": "#71866c",
+        "image": "./images/products/coast-walk-sandals_olive-trail.svg"
+      },
+      {
+        "name": "Blue Lagoon",
+        "hex": "#567c9e",
+        "image": "./images/products/coast-walk-sandals_blue-lagoon.svg"
+      }
+    ]
+  },
+  {
+    "id": "stride-training-leggings",
+    "name": "Stride Training Leggings",
+    "category": "Clothing",
+    "subcategory": "Leggings",
+    "gender": "women",
+    "price": 2600,
+    "description": "Stretch training leggings with a supportive high waist and a handy side pocket.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Plum Motion",
+        "hex": "#6c4a8f",
+        "image": "./images/products/stride-training-leggings_plum-motion.svg"
+      },
+      {
+        "name": "Cobalt Track",
+        "hex": "#3562c8",
+        "image": "./images/products/stride-training-leggings_cobalt-track.svg"
+      },
+      {
+        "name": "Coral Pulse",
+        "hex": "#e35d4e",
+        "image": "./images/products/stride-training-leggings_coral-pulse.svg"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#555b5a",
+        "image": "./images/products/stride-training-leggings_graphite.svg"
+      }
+    ]
+  },
+  {
+    "id": "storm-shell-jacket",
+    "name": "Storm Shell Training Jacket",
+    "category": "Clothing",
+    "subcategory": "Jackets",
+    "gender": "unisex",
+    "price": 3900,
+    "description": "A light water-resistant layer with a stowable hood for changeable training weather.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Navy Rain",
+        "hex": "#283754",
+        "image": "./images/products/storm-shell-jacket_navy-rain.svg"
+      },
+      {
+        "name": "Sunrise Orange",
+        "hex": "#ee8158",
+        "image": "./images/products/storm-shell-jacket_sunrise-orange.svg"
+      },
+      {
+        "name": "Forest Path",
+        "hex": "#496b45",
+        "image": "./images/products/storm-shell-jacket_forest-path.svg"
+      }
+    ]
+  },
+  {
+    "id": "campus-varsity-jersey",
+    "name": "Campus Varsity Jersey",
+    "category": "Campus Collection",
+    "subcategory": "Campus jerseys",
+    "gender": "unisex",
+    "price": 2300,
+    "description": "A relaxed campus football jersey with original lettering-free color blocking and breathable mesh.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Lecture Hall Blue",
+        "hex": "#3562c8",
+        "image": "./images/products/campus-varsity-jersey_lecture-hall-blue.svg"
+      },
+      {
+        "name": "Garden Green",
+        "hex": "#71866c",
+        "image": "./images/products/campus-varsity-jersey_garden-green.svg"
+      },
+      {
+        "name": "Sunset Club",
+        "hex": "#ee8158",
+        "image": "./images/products/campus-varsity-jersey_sunset-club.svg"
+      }
+    ]
+  },
+  {
+    "id": "field-day-backpack",
+    "name": "Field Day Backpack",
+    "category": "Accessories",
+    "subcategory": "Backpacks",
+    "gender": "unisex",
+    "price": 3200,
+    "description": "A roomy campus-to-training backpack with a padded sleeve and easy-access side pockets.",
+    "sizes": [
+      "One size"
+    ],
+    "tags": [
+      "New",
+      "Bestseller"
+    ],
+    "colors": [
+      {
+        "name": "Lake Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/field-day-backpack_lake-blue.svg"
+      },
+      {
+        "name": "Deep Plum",
+        "hex": "#6c4a8f",
+        "image": "./images/products/field-day-backpack_deep-plum.svg"
+      },
+      {
+        "name": "Tangerine",
+        "hex": "#ee8158",
+        "image": "./images/products/field-day-backpack_tangerine.svg"
+      },
+      {
+        "name": "Sage Field",
+        "hex": "#71866c",
+        "image": "./images/products/field-day-backpack_sage-field.svg"
+      }
+    ]
+  },
+  {
+    "id": "gym-day-duffel",
+    "name": "Gym Day Duffel",
+    "category": "Accessories",
+    "subcategory": "Gym bags",
+    "gender": "unisex",
+    "price": 3600,
+    "description": "A durable zip-up gym bag with a shoe compartment and a comfortable shoulder strap.",
+    "sizes": [
+      "One size"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Ruby Track",
+        "hex": "#b83b32",
+        "image": "./images/products/gym-day-duffel_ruby-track.svg"
+      },
+      {
+        "name": "Royal Court",
+        "hex": "#3562c8",
+        "image": "./images/products/gym-day-duffel_royal-court.svg"
+      },
+      {
+        "name": "Moss Trail",
+        "hex": "#496b45",
+        "image": "./images/products/gym-day-duffel_moss-trail.svg"
+      }
+    ]
+  },
+  {
+    "id": "sideline-sport-bands",
+    "name": "Sideline Sports Bands",
+    "category": "Accessories",
+    "subcategory": "Sports bands",
+    "gender": "unisex",
+    "price": 500,
+    "description": "A set of soft stretch bands to keep hair and sweat out of the way during training.",
+    "sizes": [
+      "One size"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Bright Coral",
+        "hex": "#e35d4e",
+        "image": "./images/products/sideline-sport-bands_bright-coral.svg"
+      },
+      {
+        "name": "Cobalt",
+        "hex": "#3562c8",
+        "image": "./images/products/sideline-sport-bands_cobalt.svg"
+      },
+      {
+        "name": "Violet",
+        "hex": "#9b82a7",
+        "image": "./images/products/sideline-sport-bands_violet.svg"
+      }
+    ]
+  },
+  {
+    "id": "kids-savanna-runner",
+    "name": "Kids Savanna Runner",
+    "category": "Kids",
+    "subcategory": "Kids running shoes",
+    "gender": "kids",
+    "price": 2800,
+    "description": "A lightweight kids' runner with easy-grip soles and a handy hook-and-loop strap.",
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Tangerine Dash",
+        "hex": "#ee8158",
+        "image": "./images/products/kids-savanna-runner_tangerine-dash.svg"
+      },
+      {
+        "name": "Pool Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/kids-savanna-runner_pool-blue.svg"
+      },
+      {
+        "name": "Violet Pop",
+        "hex": "#9b82a7",
+        "image": "./images/products/kids-savanna-runner_violet-pop.svg"
+      }
+    ]
+  },
+  {
+    "id": "kids-junior-football-boots",
+    "name": "Kids Junior Football Boots",
+    "category": "Kids",
+    "subcategory": "Kids football boots",
+    "gender": "kids",
+    "price": 3100,
+    "description": "Comfortable junior firm-ground boots with molded studs for school and weekend football.",
+    "sizes": [
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Coral Kick",
+        "hex": "#e35d4e",
+        "image": "./images/products/kids-junior-football-boots_coral-kick.svg"
+      },
+      {
+        "name": "Green Goal",
+        "hex": "#496b45",
+        "image": "./images/products/kids-junior-football-boots_green-goal.svg"
+      },
+      {
+        "name": "Gold Dash",
+        "hex": "#d4ad42",
+        "image": "./images/products/kids-junior-football-boots_gold-dash.svg"
+      }
+    ]
+  },
+  {
+    "id": "kids-campus-tee",
+    "name": "Kids Campus Club Tee",
+    "category": "Kids",
+    "subcategory": "Kids T-shirts",
+    "gender": "kids",
+    "price": 950,
+    "description": "A soft everyday tee with playful original campus colors and a relaxed kids' fit.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Lake Blue",
+        "hex": "#567c9e",
+        "image": "./images/products/kids-campus-tee_lake-blue.svg"
+      },
+      {
+        "name": "Bright Coral",
+        "hex": "#e35d4e",
+        "image": "./images/products/kids-campus-tee_bright-coral.svg"
+      },
+      {
+        "name": "Sunshine",
+        "hex": "#e9c866",
+        "image": "./images/products/kids-campus-tee_sunshine.svg"
+      }
+    ]
+  },
+  {
+    "id": "kids-warmup-hoodie",
+    "name": "Kids Warm-Up Hoodie",
+    "category": "Kids",
+    "subcategory": "Kids hoodies",
+    "gender": "kids",
+    "price": 1850,
+    "description": "A cozy light layer for before-and-after practice with a soft hood and roomy pockets.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Forest Path",
+        "hex": "#496b45",
+        "image": "./images/products/kids-warmup-hoodie_forest-path.svg"
+      },
+      {
+        "name": "Violet Pop",
+        "hex": "#9b82a7",
+        "image": "./images/products/kids-warmup-hoodie_violet-pop.svg"
+      },
+      {
+        "name": "Tangerine",
+        "hex": "#ee8158",
+        "image": "./images/products/kids-warmup-hoodie_tangerine.svg"
+      }
+    ]
+  },
+  {
+    "id": "kids-match-shorts",
+    "name": "Kids Match Shorts",
+    "category": "Kids",
+    "subcategory": "Kids shorts",
+    "gender": "kids",
+    "price": 850,
+    "description": "Easy-care football shorts with a secure drawcord and room to run around.",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "tags": [
+      "New"
+    ],
+    "colors": [
+      {
+        "name": "Royal Court",
+        "hex": "#3562c8",
+        "image": "./images/products/kids-match-shorts_royal-court.svg"
+      },
+      {
+        "name": "Green Goal",
+        "hex": "#496b45",
+        "image": "./images/products/kids-match-shorts_green-goal.svg"
+      },
+      {
+        "name": "Coral Kick",
+        "hex": "#e35d4e",
+        "image": "./images/products/kids-match-shorts_coral-kick.svg"
+      }
+    ]
+  }
+]

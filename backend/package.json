@@ -1,0 +1,12 @@
+{
+  "name": "kasi-athletics-checkout",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/auth.test.js test/catalog.test.js test/checkout.test.js test/store.test.js test/webhook.test.js",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

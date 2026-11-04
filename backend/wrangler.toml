@@ -1,0 +1,13 @@
+name = "kasi-athletics-checkout"
+main = "src/index.js"
+compatibility_date = "2026-11-04"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kasi-athletics-orders"
+database_id = "9932eb5e-a5c2-4b29-a63c-22cab735a411"
+migrations_dir = "migrations"
+
+[vars]
+PAYMENTS_ENABLED = "false"
+STOREFRONT_URL = "https://knight375.github.io/kasi-athletics-store/"
