@@ -56,6 +56,8 @@
     .btn-primary:hover { background: var(--accent-dark); }
     .btn-secondary { background: white; border: 1px solid var(--line); color: var(--ink); }
     .btn-block { width: 100%; }
+    .btn-disabled { background: #e7e9e6; color: #777d78; cursor: not-allowed; }
+    .btn-disabled:hover { transform: none; background: #e7e9e6; }
     .hero { border-radius: 26px; min-height: 390px; padding: clamp(30px, 6vw, 76px); display: grid; grid-template-columns: 1fr .9fr; align-items: center; overflow: hidden; background: #e9eee9; position: relative; }
     .hero-copy { max-width: 490px; z-index: 1; }
     .hero h1 span { color: #707c70; }
@@ -380,7 +382,8 @@
       <div class="cart-layout"><section class="cart-items">${state.cart.map((item,index)=>`<div class="cart-row"><div class="cart-thumb">${item.custom?iconShoe(item.colors.body,item.colors.sole,item.colors.laces,"cart"+index):productArt(item.product,item.colorIndex)}</div><div><strong>${item.custom?"Kasi Custom Low":item.product.name}</strong><small>${item.custom?"Custom colors · Made for you":`Size: ${item.size || "Not selected"} · ${item.colorName || "Original color"}`}</small><div class="qty-control"><button data-qty="${index}" data-delta="-1" aria-label="Decrease quantity">−</button><span>${item.quantity}</span><button data-qty="${index}" data-delta="1" aria-label="Increase quantity">+</button></div></div><div><div class="cart-row-price">${money((item.custom?4500:item.product.price)*item.quantity)}</div><button class="remove-button" data-remove="${index}">Remove</button></div></div>`).join("")}</section>
       <aside class="summary-card"><h3>Order summary</h3><div class="summary-line"><span>Items subtotal</span><span>${money(total())}</span></div><div class="summary-line"><span>Delivery</span><span>Confirm on WhatsApp</span></div><div class="summary-line total"><span>Items subtotal</span><span>${money(total())}</span></div>
         <p class="checkout-contact">Send your item list to Kasi on WhatsApp. We’ll confirm availability, delivery fee and payment options before you decide.</p>
-        <p class="assurance">This is an order request, not a confirmed order. No payment is taken on this website.</p><button class="btn btn-primary btn-block" data-whatsapp-order>Request order on WhatsApp</button></aside></div>`;
+        <p class="assurance">Choose how to continue. Online payment will be available after secure checkout setup. No payment is taken on this website.</p>
+        <div class="custom-actions"><button class="btn btn-disabled btn-block" type="button" disabled aria-describedby="payment-coming-soon">Proceed to pay · Coming soon</button><small id="payment-coming-soon" class="assurance">Secure online payments are not set up yet.</small><button class="btn btn-primary btn-block" data-whatsapp-order>Request on WhatsApp</button></div></aside></div>`;
     }
     function orderMessage() {
       const lines=state.cart.map(item=>{
